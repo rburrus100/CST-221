@@ -1,3 +1,4 @@
+//programmed by Ryan Burrus to convert a decimal to both bianary and hexadecimal
 #include <stdio.h>
  
 int main()
@@ -21,7 +22,7 @@ int main()
   }
  
   printf("\n");
- 
+ //code to convert decimal to hexadecimal
  scanf("%ld", &n);
  printf("%ld \n",n);
  
